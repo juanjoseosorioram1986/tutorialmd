@@ -106,3 +106,5 @@ ademas de la sintaxis para listas se agrega [_],[x]o[X]
 ![lil](juan/descarga.jpg)
 ~~~~
 ![lil](juan/descarga.jpg)
+
+
